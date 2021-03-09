@@ -26,9 +26,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `KilledByGoogle - Shreyaan Vashishtha`,
+        short_name: `KilledByGoogle`,
+        description: `Killed by Google. There's a lot of them! By Shreyaan Vashishtha`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
