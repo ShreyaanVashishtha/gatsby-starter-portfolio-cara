@@ -1,11 +1,6 @@
 {
   "private": true,
-  "name": <h1>
-    Welcome to
-    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-      {{title}}
-    </strong>
-  </h1>,
+  "name": "KilledByGoogle",
   "description": "Killed by Google. There's a lot of them! By Shreyaan Vashishtha",
   "version": "0.2.9",
   "author": "Shreyaan Vashishtha <http://www.shreyaan.tech/>",
